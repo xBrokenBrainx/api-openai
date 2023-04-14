@@ -1,8 +1,11 @@
 # Java-Apache-OpenAI
 
-Programa em Java para consumir a API da Open AI.
+Programa em Java para consumir a API da Open AI com a biblioteca Apache HTTP.
 
 No código está fazendo um POST para o modelo 'text-davinci-003' que é o modelo do Chat GPT-3
+
+Uma maneira simples para fazer um POST na API da Open AI e receber seu output.
+Visando assim facilitar a integração com Chat GPT para projetos java.
 
 ## Dependência MAVEN:
 ````
